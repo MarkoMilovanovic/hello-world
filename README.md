@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi all, my name is Marko, welcome to this github repository.  
+
+
